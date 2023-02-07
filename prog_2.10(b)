@@ -1,0 +1,4 @@
+import math
+x, y = int(input()), int(input())
+g = math.sqrt(x*y)
+print("Среднее геометрическое = ", g)
