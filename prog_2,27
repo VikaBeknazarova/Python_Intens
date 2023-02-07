@@ -1,0 +1,4 @@
+import math
+a, c, h = float(input()), float(input()), float(input())
+P = a + c + math.sqrt((c - a) * (c - a) / 4 + h * h)
+print("Периметр = ", P)
