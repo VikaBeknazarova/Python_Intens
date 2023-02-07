@@ -1,0 +1,2 @@
+f, d = int(input( 'Футов = ')), int( input('Дюймов = '))
+print(( f*12 + d)* 2.54 )
