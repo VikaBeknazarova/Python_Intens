@@ -1,0 +1,3 @@
+n, S = int(input()), float(input())
+p = n / S
+print("Плотность населения = ", p)
