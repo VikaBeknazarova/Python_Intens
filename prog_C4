@@ -1,0 +1,2 @@
+a, b = int(input ()), int(input())
+print("Площадь =", a*b/43560, "акров")
