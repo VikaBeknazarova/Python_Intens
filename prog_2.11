@@ -1,0 +1,3 @@
+m, V = float(input()), float(input())
+p = m/V
+print(p)
